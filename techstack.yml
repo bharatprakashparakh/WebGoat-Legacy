@@ -1,0 +1,1034 @@
+repo_name: bharatprakashparakh/WebGoat-Legacy
+report_id: e28236cf6ebad1e6d93b59d5fd127494
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-13T17:27:08+00:00'
+requested_by: bharatprakashparakh
+provider: github
+branch: master
+detected_tools_count: 49
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy
+  detection_source: Repo Metadata
+- name: Java EE
+  description: The standard in community-driven enterprise software
+  website_url: http://www.oracle.com/technetwork/java/javaee/overview/index.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4522/652rxwyK_400x400.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/src/main/webapp/WEB-INF/webgoat_oracle.sql
+  detection_source: src/main/webapp/WEB-INF/webgoat_oracle.sql
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: H2 Database
+  description: A relational database management system written in Java
+  website_url: http://www.h2database.com/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: HSQLDB
+  description: Leading SQL relational database software written in Java
+  website_url: http://hsqldb.org
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/6958/yQ4763oZ_400x400.jpg
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: Eclipse
+  description: IDE for Java EE Developers
+  website_url: https://www.eclipse.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/src/main/webapp/js/ace/theme-eclipse.js
+  detection_source: src/main/webapp/js/ace/theme-eclipse.js
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy
+  detection_source: Repo Metadata
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: 4.8.1
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  version: 1.2.17
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: axis:axis
+  description: An implementation of the SOAP
+  version: '1.2'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+  vulnerabilities:
+  - name: Apache Axis 1.x (EOL) may allow RCE when untrusted input is passed to getService
+    cve_id: CVE-2023-40743
+    cve_url: https://github.com/advisories/GHSA-rmqp-9w4c-gc7w
+    detected_date: Mar 15
+    severity: critical
+    first_patched:
+  - name: Apache Axis Improper Input Validation vulnerability
+    cve_id: CVE-2023-51441
+    cve_url: https://github.com/advisories/GHSA-hr2c-p8rh-238h
+    detected_date: Mar 15
+    severity: high
+    first_patched:
+  - name: Server Side Request Forgery in Apache Axis
+    cve_id: CVE-2019-0227
+    cve_url: https://github.com/advisories/GHSA-h9gj-rqrw-x4fq
+    detected_date: Mar 15
+    severity: high
+    first_patched:
+  - name: Improper Validation of Certificates in apache axis
+    cve_id: CVE-2014-3596
+    cve_url: https://github.com/advisories/GHSA-r53v-vm87-f72c
+    detected_date: Mar 2
+    severity: moderate
+    first_patched:
+  - name: Moderate severity vulnerability that affects apache axis
+    cve_id: CVE-2018-8032
+    cve_url: https://github.com/advisories/GHSA-96jq-75wh-2658
+    detected_date: Jan 28
+    severity: moderate
+    first_patched:
+  - name: Man-in-the-middle attack in Apache Axis
+    cve_id: CVE-2012-5784
+    cve_url: https://github.com/advisories/GHSA-55w9-c3g2-4rrh
+    detected_date: Jan 28
+    severity: moderate
+    first_patched:
+- name: com.fasterxml.jackson.core:jackson-databind
+  description: 'General data-binding functionality for Jackson: works on core streaming
+    API'
+  version: 2.0.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+  vulnerabilities:
+  - name: Improper Input Validation in jackson-databind
+    cve_id: CVE-2019-17267
+    cve_url: https://github.com/advisories/GHSA-f3j5-rmmp-3fc5
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.8.11.5
+  - name: jackson-databind is vulnerable to a deserialization flaw
+    cve_id: CVE-2017-7525
+    cve_url: https://github.com/advisories/GHSA-qxxx-2pp7-5hmx
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.6.7.1
+  - name: Polymorphic Typing issue in FasterXML jackson-databind
+    cve_id: CVE-2019-14540
+    cve_url: https://github.com/advisories/GHSA-h822-r4r5-v8jg
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.6.7.3
+  - name: Polymorphic Typing issue in FasterXML jackson-databind
+    cve_id: CVE-2019-16335
+    cve_url: https://github.com/advisories/GHSA-85cw-hj65-qqv9
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.6.7.3
+  - name: Deserialization of Untrusted Data in jackson-databind
+    cve_id: CVE-2020-8840
+    cve_url: https://github.com/advisories/GHSA-4w82-r329-3q67
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.6.7.4
+  - name: jackson-databind vulnerable to deserialization flaw leading to unauthenticated
+      remote code execution
+    cve_id: CVE-2017-15095
+    cve_url: https://github.com/advisories/GHSA-h592-38cm-4ggp
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.6.7.3
+  - name: Arbitrary Code Execution in jackson-databind
+    cve_id: CVE-2018-14718
+    cve_url: https://github.com/advisories/GHSA-645p-88qh-w398
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.6.7.3
+  - name: com.fasterxml.jackson.core:jackson-databind vulnerable to Deserialization
+      of Untrusted Data
+    cve_id: CVE-2018-19362
+    cve_url: https://github.com/advisories/GHSA-c8hm-7hpq-7jhg
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.6.7.3
+  - name: Deserialization of Untrusted Data in jackson-databind
+    cve_id: CVE-2019-20330
+    cve_url: https://github.com/advisories/GHSA-gww7-p5w4-wrfv
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.6.7.4
+  - name: Deserialization of Untrusted Data in jackson-databind
+    cve_id: CVE-2018-11307
+    cve_url: https://github.com/advisories/GHSA-qr7j-h6gg-jmgc
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.7.9.4
+  - name: jackson-databind vulnerable to remote code execution due to incorrect deserialization
+      and blocklist bypass
+    cve_id: CVE-2017-17485
+    cve_url: https://github.com/advisories/GHSA-rfx6-vp9g-rh7v
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.7.9.2
+  - name: Arbitrary Code Execution in jackson-databind
+    cve_id: CVE-2018-14719
+    cve_url: https://github.com/advisories/GHSA-4gq5-ch57-c2mg
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.7.9.5
+  - name: jackson-databind polymorphic typing issue
+    cve_id: CVE-2019-17531
+    cve_url: https://github.com/advisories/GHSA-gjmw-vf9h-g25v
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.6.7.3
+  - name: jackson-databind polymorphic typing issue
+    cve_id: CVE-2019-16943
+    cve_url: https://github.com/advisories/GHSA-fmmc-742q-jg75
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.6.7.3
+  - name: Deserialization of untrusted data in FasterXML jackson-databind
+    cve_id: CVE-2019-14379
+    cve_url: https://github.com/advisories/GHSA-6fpp-rgj9-8rwc
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.7.9.6
+  - name: jackson-databind mishandles the interaction between serialization gadgets
+      and typing
+    cve_id: CVE-2020-9548
+    cve_url: https://github.com/advisories/GHSA-p43x-xfjf-5jhr
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.7.9.7
+  - name: Polymorphic Typing in FasterXML jackson-databind
+    cve_id: CVE-2019-16942
+    cve_url: https://github.com/advisories/GHSA-mx7p-6679-8g3q
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.6.7.3
+  - name: 'FasterXML jackson-databind allows unauthenticated remote code execution '
+    cve_id: CVE-2018-7489
+    cve_url: https://github.com/advisories/GHSA-cggj-fvv3-cqwv
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.6.7.5
+  - name: jackson-databind mishandles the interaction between serialization gadgets
+      and typing
+    cve_id: CVE-2020-9547
+    cve_url: https://github.com/advisories/GHSA-q93h-jc49-78gg
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 2.7.9.7
+  - name: Polymorphic deserialization of malicious object in jackson-databind
+    cve_id: CVE-2019-14892
+    cve_url: https://github.com/advisories/GHSA-cf6r-3wgc-h863
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.6.7.3
+  - name: jackson-databind mishandles the interaction between serialization gadgets
+      and typing
+    cve_id: CVE-2020-10673
+    cve_url: https://github.com/advisories/GHSA-fqwf-pjwf-7vqv
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.6.7.4
+  - name: jackson-databind Deserialization of Untrusted Data vulnerability
+    cve_id: CVE-2018-12022
+    cve_url: https://github.com/advisories/GHSA-cjjf-94ff-43w7
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.7.9.4
+  - name: Information exposure in FasterXML jackson-databind
+    cve_id: CVE-2019-12086
+    cve_url: https://github.com/advisories/GHSA-5ww9-j83m-q7qx
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.6.7.3
+  - name: jackson-databind before 2.9.10.4 vulnerable to unsafe deserialization
+    cve_id: CVE-2020-10650
+    cve_url: https://github.com/advisories/GHSA-rpr3-cw39-3pxh
+    detected_date: Jul 16
+    severity: high
+    first_patched: 2.9.10.4
+  - name: Unsafe Deserialization in jackson-databind
+    cve_id: CVE-2020-24750
+    cve_url: https://github.com/advisories/GHSA-qjw2-hr98-qgfh
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.6.7.5
+  - name: Deserialization of untrusted data in jackson-databind
+    cve_id: CVE-2021-20190
+    cve_url: https://github.com/advisories/GHSA-5949-rw7g-wx7w
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.6.7.5
+  - name: Serialization gadget exploit in jackson-databind
+    cve_id: CVE-2020-35728
+    cve_url: https://github.com/advisories/GHSA-5r5r-6hpj-8gg9
+    detected_date: Nov 22
+    severity: high
+    first_patched: 2.9.10.8
+  - name: Uncontrolled Resource Consumption in FasterXML jackson-databind
+    cve_id: CVE-2022-42004
+    cve_url: https://github.com/advisories/GHSA-rgv9-q543-rqg4
+    detected_date: Oct 5
+    severity: high
+    first_patched: 2.12.7.1
+  - name: Unsafe Deserialization in jackson-databind
+    cve_id: CVE-2020-36181
+    cve_url: https://github.com/advisories/GHSA-cvm9-fjm9-3572
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.6.7.5
+  - name: Deserialization of untrusted data in FasterXML jackson-databind
+    cve_id: CVE-2019-14439
+    cve_url: https://github.com/advisories/GHSA-gwp4-hfv6-p7hw
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.6.7.3
+  - name: Unsafe Deserialization in jackson-databind
+    cve_id: CVE-2020-36186
+    cve_url: https://github.com/advisories/GHSA-v585-23hc-c647
+    detected_date: Jan 18
+    severity: high
+    first_patched: 2.9.10.8
+  - name: Code Injection in jackson-databind
+    cve_id: CVE-2020-24616
+    cve_url: https://github.com/advisories/GHSA-h3cw-g4mq-c5x2
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.9.10.6
+  - name: Serialization gadgets exploit in jackson-databind
+    cve_id: CVE-2020-35490
+    cve_url: https://github.com/advisories/GHSA-wh8g-3j2c-rqj5
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.9.10.8
+  - name: Serialization gadgets exploit in jackson-databind
+    cve_id: CVE-2020-35491
+    cve_url: https://github.com/advisories/GHSA-r3gr-cxrf-hg25
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.9.10.8
+  - name: Unsafe Deserialization in jackson-databind
+    cve_id: CVE-2020-36182
+    cve_url: https://github.com/advisories/GHSA-89qr-369f-5m5x
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.6.7.5
+  - name: Unsafe Deserialization in jackson-databind
+    cve_id: CVE-2020-36179
+    cve_url: https://github.com/advisories/GHSA-9gph-22xh-8x98
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.6.7.5
+  - name: Unsafe Deserialization in jackson-databind
+    cve_id: CVE-2020-36185
+    cve_url: https://github.com/advisories/GHSA-8w26-6f25-cm9x
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.9.10.8
+  - name: Unsafe Deserialization in jackson-databind
+    cve_id: CVE-2020-36180
+    cve_url: https://github.com/advisories/GHSA-8c4j-34r4-xr8g
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.6.7.5
+  - name: Unsafe Deserialization in jackson-databind
+    cve_id: CVE-2020-36184
+    cve_url: https://github.com/advisories/GHSA-m6x4-97wx-4q27
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.9.10.8
+  - name: Unsafe Deserialization in jackson-databind
+    cve_id: CVE-2020-36183
+    cve_url: https://github.com/advisories/GHSA-9m6f-7xcq-8vf8
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.6.7.5
+  - name: Unsafe Deserialization in jackson-databind
+    cve_id: CVE-2020-36188
+    cve_url: https://github.com/advisories/GHSA-f9xh-2qgp-cq57
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.6.7.5
+  - name: Unsafe Deserialization in jackson-databind
+    cve_id: CVE-2020-36187
+    cve_url: https://github.com/advisories/GHSA-r695-7vr9-jgc2
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.9.10.8
+  - name: Unsafe Deserialization in jackson-databind
+    cve_id: CVE-2020-36189
+    cve_url: https://github.com/advisories/GHSA-vfqx-33qm-g869
+    detected_date: Jan 28
+    severity: high
+    first_patched: 2.6.7.5
+  - name: Deserialization of Untrusted Data in jackson-databind
+    cve_id: CVE-2018-5968
+    cve_url: https://github.com/advisories/GHSA-w3f4-3q6j-rh82
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.7.9.5
+  - name: Deeply nested json in jackson-databind
+    cve_id: CVE-2020-36518
+    cve_url: https://github.com/advisories/GHSA-57j2-w4cx-62h2
+    detected_date: Mar 23
+    severity: high
+    first_patched: 2.12.6.1
+  - name: Deserialization of untrusted data in FasterXML jackson-databind
+    cve_id: CVE-2019-12814
+    cve_url: https://github.com/advisories/GHSA-cmfg-87vq-g5g4
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.6.7.3
+  - name: Deserialization of Untrusted Data in FasterXML jackson-databind
+    cve_id: CVE-2019-12384
+    cve_url: https://github.com/advisories/GHSA-mph4-vhrx-mv67
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.6.7.3
+- name: com.h2database:h2
+  description: H2 Database Engine
+  version: 1.4.187
+  license: MIT-feh
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+  vulnerabilities:
+  - name: Arbitrary code execution in H2 Console
+    cve_id: CVE-2022-23221
+    cve_url: https://github.com/advisories/GHSA-45hx-wfhj-473x
+    detected_date: Jan 22
+    severity: critical
+    first_patched: 2.1.210
+  - name: RCE in H2 Console
+    cve_id: CVE-2021-42392
+    cve_url: https://github.com/advisories/GHSA-h376-j262-vhq6
+    detected_date: Jan 7
+    severity: critical
+    first_patched: 2.0.206
+  - name: 'Password exposure in H2 Database '
+    cve_id: CVE-2022-45868
+    cve_url: https://github.com/advisories/GHSA-22wj-vf5f-wrvj
+    detected_date: Nov 24
+    severity: high
+    first_patched: 2.2.220
+- name: commons-collections:commons-collections
+  description: Types that extend and augment the Java Collections Framework
+  version: '3.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+  vulnerabilities:
+  - name: Deserialization of Untrusted Data in Apache commons collections
+    cve_id: CVE-2015-7501
+    cve_url: https://github.com/advisories/GHSA-fjq5-5j5f-mvxh
+    detected_date: Nov 4
+    severity: critical
+    first_patched: 3.2.2
+  - name: Insecure Deserialization in Apache Commons Collection
+    cve_id: CVE-2015-6420
+    cve_url: https://github.com/advisories/GHSA-6hgm-866r-3cjv
+    detected_date: Jan 28
+    severity: high
+    first_patched: 3.2.2
+- name: commons-fileupload:commons-fileupload
+  description: The Apache Commons FileUpload component provides a simple yet flexible
+    means of adding support for multipart file upload functionality to servlets and
+    web applications
+  version: 1.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+  vulnerabilities:
+  - name: Improper Access Control in commons-fileupload
+    cve_id: CVE-2016-1000031
+    cve_url: https://github.com/advisories/GHSA-7x9j-7223-rg5m
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.3.3
+  - name: High severity vulnerability that affects commons-fileupload:commons-fileupload
+    cve_id: CVE-2016-3092
+    cve_url: https://github.com/advisories/GHSA-fvm3-cfvj-gxqq
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.3.2
+  - name: Apache Commons FileUpload denial of service vulnerability
+    cve_id: CVE-2023-24998
+    cve_url: https://github.com/advisories/GHSA-hfrx-6qgj-fp6c
+    detected_date: Feb 22
+    severity: high
+    first_patched: '1.5'
+  - name: Arbitrary file write in Apache Commons Fileupload
+    cve_id: CVE-2013-2186
+    cve_url: https://github.com/advisories/GHSA-qx6h-9567-5fqw
+    detected_date: Nov 4
+    severity: high
+    first_patched: 1.3.1
+  - name: Commons FileUpload Denial of service vulnerability
+    cve_id: CVE-2014-0050
+    cve_url: https://github.com/advisories/GHSA-xx68-jfcg-xmmf
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.3.1
+- name: log4j:log4j
+  description: Apache Log4j 1.2
+  version: 1.2.17
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+  vulnerabilities:
+  - name: SQL Injection in Log4j 1.2.x
+    cve_id: CVE-2022-23305
+    cve_url: https://github.com/advisories/GHSA-65fg-84f6-3jq3
+    detected_date: Jan 22
+    severity: critical
+    first_patched:
+  - name: Deserialization of Untrusted Data in Apache Log4j
+    cve_id: CVE-2022-23307
+    cve_url: https://github.com/advisories/GHSA-f7vh-qwp3-x37m
+    detected_date: Nov 26
+    severity: critical
+    first_patched:
+  - name: Deserialization of Untrusted Data in Log4j
+    cve_id: CVE-2019-17571
+    cve_url: https://github.com/advisories/GHSA-2qrg-x229-3v8q
+    detected_date: Aug 22
+    severity: critical
+    first_patched:
+  - name: Deserialization of Untrusted Data in Log4j 1.x
+    cve_id: CVE-2022-23302
+    cve_url: https://github.com/advisories/GHSA-w9p3-5cr8-m3jj
+    detected_date: Jan 22
+    severity: high
+    first_patched:
+  - name: JMSAppender in Log4j 1.2 is vulnerable to deserialization of untrusted data
+    cve_id: CVE-2021-4104
+    cve_url: https://github.com/advisories/GHSA-fp5r-v3w9-4333
+    detected_date: Dec 15
+    severity: high
+    first_patched:
+- name: org.apache.tomcat:tomcat-catalina
+  description: Tomcat Servlet Engine Core Classes and Standard implementations
+  version: 7.0.27
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+  vulnerabilities:
+  - name: Exposure of Resource to Wrong Sphere in Apache Tomcat
+    cve_id: CVE-2017-5648
+    cve_url: https://github.com/advisories/GHSA-3vx3-xf6q-r5xp
+    detected_date: Apr 19
+    severity: critical
+    first_patched: 7.0.76
+  - name: Authentication Bypass Using an Alternate Path or Channel in Apache Tomcat
+    cve_id: CVE-2016-5018
+    cve_url: https://github.com/advisories/GHSA-4v3g-g84w-hv7r
+    detected_date: Jul 7
+    severity: critical
+    first_patched: 7.0.72
+  - name: Apache Tomcat Improper Access Control vulnerability
+    cve_id: CVE-2016-8735
+    cve_url: https://github.com/advisories/GHSA-cw54-59pw-4g8c
+    detected_date: Apr 20
+    severity: critical
+    first_patched: 7.0.73
+  - name: Potential remote code execution in Apache Tomcat
+    cve_id: CVE-2020-9484
+    cve_url: https://github.com/advisories/GHSA-344f-f5vg-2jfj
+    detected_date: Sep 27
+    severity: high
+    first_patched: 7.0.104
+  - name: Exposure of Sensitive Information to an Unauthorized Actor in Apache Tomcat
+    cve_id: CVE-2017-12616
+    cve_url: https://github.com/advisories/GHSA-8qq4-8jvq-mfw4
+    detected_date: Jul 2
+    severity: high
+    first_patched: 7.0.81
+  - name: Improper Access Control in Apache Tomcat
+    cve_id: CVE-2016-5388
+    cve_url: https://github.com/advisories/GHSA-v646-rx6w-r3qq
+    detected_date: Jul 7
+    severity: high
+    first_patched: 7.0.72
+  - name: Concurrent Execution using Shared Resource with Improper Synchronization
+      in Apache Tomcat
+    cve_id: CVE-2016-8745
+    cve_url: https://github.com/advisories/GHSA-w3j5-q8f2-3cqq
+    detected_date: Jul 7
+    severity: high
+    first_patched: 7.0.75
+  - name: Incorrect Authorization in Apache Tomcat
+    cve_id: CVE-2016-6797
+    cve_url: https://github.com/advisories/GHSA-q6x7-f33r-3wxx
+    detected_date: Jul 7
+    severity: high
+    first_patched: 7.0.72
+  - name: Improper Authentication in Apache Tomcat
+    cve_id: CVE-2012-5886
+    cve_url: https://github.com/advisories/GHSA-9xrj-439h-62hg
+    detected_date: Sep 28
+    severity: moderate
+    first_patched: 7.0.30
+- name: org.apache.tiles:tiles-core
+  description: Tiles Core Library
+  version: 2.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+  vulnerabilities:
+  - name: 'Apache Tiles: Unvalidated input may lead to path traversal and XXE'
+    cve_id: CVE-2023-49735
+    cve_url: https://github.com/advisories/GHSA-qw4h-3xjj-84cc
+    detected_date: Dec 12
+    severity: high
+    first_patched:
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  version: 1.3.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+  vulnerabilities:
+  - name: Path Traversal and Improper Input Validation in Apache Commons IO
+    cve_id: CVE-2021-29425
+    cve_url: https://github.com/advisories/GHSA-gwrp-pvrq-jmwv
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: '2.7'
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: 4.8.1
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: axis:axis-jaxrpc
+  version: '1.2'
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: axis:axis-saaj
+  version: '1.2'
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: com.fasterxml.jackson.core:jackson-core
+  description: Core Jackson processing abstractions
+  version: 2.0.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: commons-digester:commons-digester
+  description: The Digester package lets you configure an XML to Java object mapping
+    module which triggers certain actions called rules whenever a particular pattern
+    of nested XML elements is ...
+  version: 1.4.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: commons-discovery:commons-discovery
+  description: The Apache Commons Discovery component is about discovering
+  version: '0.2'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: commons-logging:commons-logging
+  description: Apache Commons Logging is a thin adapter allowing configurable bridging
+    to other
+  version: 1.1.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: hsqldb:hsqldb
+  description: Lightweight 100% Java SQL Database Engine
+  version: 1.8.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: javax.activation:activation
+  description: The JavaBeans
+  version: '1.1'
+  license: CDDL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: javax.mail:mail
+  description: "${project.name}"
+  version: 1.4.2
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: javax.mail:mailapi
+  version: 1.4.2
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: javax.servlet:jstl
+  version: '1.2'
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: javax.transaction:javax.transaction-api
+  description: Project GlassFish Java Transaction API
+  version: '1.2'
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: javax:javaee-api
+  description: Java
+  version: '6.0'
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: net.sourceforge.jtds:jtds
+  description: JTDS is an open source 100% pure Java
+  version: 1.2.2
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  version: 3.3.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: org.slf4j:jcl-over-slf4j
+  description: JCL 1.2 implemented over SLF4J
+  version: 1.7.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: org.slf4j:slf4j-api
+  description: The slf4j API
+  version: 1.7.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: org.slf4j:slf4j-log4j12
+  description: SLF4J LOG4J-12 Binding
+  version: 1.7.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: org.springframework.security:spring-security-config
+  description: Spring-security-config
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: org.springframework.security:spring-security-core
+  description: Spring-security-core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: org.springframework.security:spring-security-web
+  description: Spring-security-web
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: org.springframework:spring-core
+  description: Spring Core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: org.springframework:spring-webmvc
+  description: Spring Web MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: taglibs:standard
+  version: 1.1.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
+- name: wsdl4j:wsdl4j
+  description: Java stub generator for WSDL
+  version: 1.5.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/bharatprakashparakh/WebGoat-Legacy/blob/master/pom.xml
+  detection_source: pom.xml
